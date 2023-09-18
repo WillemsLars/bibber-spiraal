@@ -1,5 +1,5 @@
 {
-    "name": "bibber spiraal",
+    "name": "bibber spiraal2.0",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "5.0.12",
+        "target": "6.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [
